@@ -1,2 +1,2 @@
 # Analise de Dados
-Repositório com o conteúdo dos meus estudos para a análise de dados
+Repositório com o conteúdo dos meus estudos sobre a biblioteca PANDAS
